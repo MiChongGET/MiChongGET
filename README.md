@@ -56,8 +56,6 @@ Learning the technologies of Big-Data and reading to find a job.
 
 
 ### ☕ Get In Touch
-- [Bilibili](https://space.bilibili.com/364361791)
-- [Youtube](https://www.youtube.com/channel/UCQ2-QI7IYSSX2tpOjmjBatw)
-- [Personal Site](https://ishacker.net)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MiChongGET.MiChongGET)
