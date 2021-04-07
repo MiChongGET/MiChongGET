@@ -51,8 +51,8 @@ Personal Website : *https://www.buildworld.cn*
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=MiChongGET&show_icons=true&hide_border=true)
 
 
-### 🔭 2020 Goal
-Learning the technologies of Big-Data and reading to find a job.
+### 🔭 2021 Goal
+Deo gratias！
 
 
 ### ☕ Get In Touch
