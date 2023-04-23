@@ -23,6 +23,7 @@ Personal Website : *https://www.buildworld.cn*
 ### 👨‍💻 Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
+[![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go&logoColor=white&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
 
 [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
@@ -32,7 +33,6 @@ Personal Website : *https://www.buildworld.cn*
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/MiChongGET)](https://github.com/MiChongGET)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
 [![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/MiChongGET)](https://github.com/MiChongGET) 
